@@ -1,0 +1,16 @@
+.btn-yellow {
+	background-color: #F8DB1B;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Bebas Neue',sans-serif;
+}
+
+.carre-black {
+ height: 22px;
+  width: 120px;
+  background-color: black;
+  transform: skewX(-20deg);
+  text-align: center;
+}
